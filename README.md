@@ -1,8 +1,3 @@
-# HackerCamp
-Infrastructure profile assignment
-Name: RUPESH KASHYAP
-
-
 This repository has 1 java file named hackercamp.java
 
 The program has two main funcitons;
